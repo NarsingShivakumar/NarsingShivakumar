@@ -267,7 +267,7 @@ Building smart mobile applications with AI capabilities that work offline and pr
 - ✅ Speech recognition and voice command processing
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 ![Shivakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NarsingShivakumar&show_icons=true&theme=radical)
@@ -277,11 +277,12 @@ Building smart mobile applications with AI capabilities that work offline and pr
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NarsingShivakumar&theme=radical)
 
 ---
+-->
 
 ## 🏆 Key Achievements
 
 - 🎯 Built **10+ production-ready mobile & web applications**
-- 📱 Expert in **React Native** with **5+ years** of experience
+- 📱 Expert in **React Native** with **1+ years** of experience
 - 🗄️ Specialized in **offline-first architecture** with WatermelonDB & SQLite
 - 📡 Developed **IoT applications** with BLE & Bluetooth Classic integrations
 - 🤖 Integrated **AI/ML models** for intelligent mobile experiences
