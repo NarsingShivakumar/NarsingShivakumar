@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Shivakumar Narsing
 
-### 🚀 Full-Stack Mobile Developer | React Native | Java | Spring Boot | Microservices
+### 🚀 Full-Stack Mobile Developer | React Native | Java 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/narshingshivakumar/)
 [![GitHub followers](https://img.shields.io/github/followers/NarsingShivakumar?label=Follow&style=social)](https://github.com/NarsingShivakumar)
@@ -11,7 +11,7 @@
 
 I'm a versatile **Full-Stack Developer** specializing in **React Native mobile development** and **Java-based backend systems**. With expertise in building scalable microservices architectures and high-performance **offline-first** cross-platform mobile applications for **Android** and **iOS**, I deliver end-to-end solutions with clean code and industry best practices.
 
-- 🔭 Currently working on **React Native** apps with **offline-first architecture** & **Spring Boot microservices**
+- 🔭 Currently working on **React Native** apps with **offline-first architecture**
 - 🌱 Exploring **Cloud-Native architectures**, **Kubernetes**, and **Event-Driven systems**
 - 🗄️ Building robust offline-capable apps with **WatermelonDB** and **SQLite**
 - 🤖 Integrating **AI/ML models** with TensorFlow Lite and on-device intelligence
