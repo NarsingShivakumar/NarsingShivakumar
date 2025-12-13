@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a versatile **Full-Stack Developer** specializing in **React Native mobile development** and **Java-based backend systems**. With expertise in building scalable microservices architectures and high-performance **offline-first** cross-platform mobile applications for **Android** and **iOS**, I deliver end-to-end solutions with clean code and industry best practices.
+I'm a versatile **Full-Stack Developer** specializing in **React Native mobile development** <!-- and **Java-based backend systems**-->. With expertise in building scalable <!-- microservices architectures and --> high-performance **offline-first** cross-platform mobile applications for **Android** and **iOS**, I deliver end-to-end solutions with clean code and industry best practices.
 
 - 🔭 Currently working on **React Native** apps with **offline-first architecture**
 - 🌱 Exploring **Cloud-Native architectures**, **Kubernetes**, and **Event-Driven systems**
